@@ -9,7 +9,7 @@ const port = 1000;
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'v3j17041',
+    password: 'xyz@123',
     database: 'portfolio'
 });
 
